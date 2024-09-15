@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">SKILLS</h4>
+<h3 align="left">SKILLS</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">CONTACT</h4>
+<h3 align="left">CONTACT</h3>
 
 ###
 
