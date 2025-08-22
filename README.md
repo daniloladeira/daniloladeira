@@ -1,4 +1,4 @@
-<img src="danilo-banner.png" alt="Danilo Ladeira Banner" />
+<img src="ladeira-banner.png" alt="Danilo Ladeira Banner" />
 
 <p>
   Atualmente atuando como desenvolvedor na <strong>Secretaria de Estado do Trabalho, da Habitação e da Assistência Social (SETHAS)</strong>, contribuo diretamente em diversos sistemas e programas que impactam positivamente a vida de milhares de cidadãos em todo o Rio Grande do Norte.
