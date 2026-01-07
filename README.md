@@ -15,15 +15,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
